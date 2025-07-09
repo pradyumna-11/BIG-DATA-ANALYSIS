@@ -12,10 +12,6 @@
 
 "MENTOR" : NEELA SANTOSH
 
-Thanks for the clarification! Here's a **detailed 500+ word description** for your **Task 1: Big Data Analysis using PySpark or Dask**, perfect for your `README.md` file.
-
----
-
 ## 📌 Task 1: Big Data Analysis Using PySpark to Demonstrate Scalability
 
 ### 📝 Overview

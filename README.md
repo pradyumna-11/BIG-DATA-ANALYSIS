@@ -117,3 +117,37 @@ This task demonstrated how PySpark can scale to real-world data sizes, making it
   * Insights printed at the end of the notebook
   * Optional visualizations of aggregated data
 * Dataset used (or reference to public dataset link)
+
+## Output:
+
+<img width="748" height="150" alt="Image" src="https://github.com/user-attachments/assets/2eb07cca-4d2e-4da6-87a0-1d0f0830cd93" />
+
+
+<img width="1314" height="323" alt="Image" src="https://github.com/user-attachments/assets/79e3fb68-8a17-412d-a4d2-0e4215c23c06" />
+
+
+<img width="215" height="104" alt="Image" src="https://github.com/user-attachments/assets/c1ea82f3-a882-47ac-8265-fcdeedbff1de" />
+
+
+<img width="216" height="96" alt="Image" src="https://github.com/user-attachments/assets/4f320eb3-0932-490f-a364-82784080769d" />
+
+
+<img width="531" height="393" alt="Image" src="https://github.com/user-attachments/assets/288ccb45-789b-4b21-80f7-2353bcba5e86" />
+
+
+<img width="531" height="427" alt="Image" src="https://github.com/user-attachments/assets/1fa6b75b-6889-436a-af3a-7e082950a137" />
+
+
+<img width="442" height="427" alt="Image" src="https://github.com/user-attachments/assets/c7712c60-c419-4c18-bdf5-d8726f7e5061" />
+
+
+<img width="695" height="470" alt="Image" src="https://github.com/user-attachments/assets/97a87c92-0ebb-4da7-984c-7e6497d39c36" />
+
+
+<img width="706" height="597" alt="Image" src="https://github.com/user-attachments/assets/b02dd5d5-f437-4f09-abec-a92572c9d63f" />
+
+
+<img width="698" height="470" alt="Image" src="https://github.com/user-attachments/assets/e859fbbc-1a2b-4e11-ab3a-4b7675c86f50" />
+
+
+<img width="686" height="470" alt="Image" src="https://github.com/user-attachments/assets/9c76a395-fea4-4936-adc5-a326941b78d1" />
